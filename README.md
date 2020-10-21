@@ -1,7 +1,7 @@
 # PyMRI
 
 ### Description:
-This project aims to process MR images using Python packages and Docker container, and run statisitical analysis using machinel learning techniques. 
+This project aims to process MR images using Python packages and Docker container, and run statisitical analysis using machine learning techniques. 
 
 
 ### Files:
